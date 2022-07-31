@@ -10,3 +10,6 @@ var name = "Rimon"; // string   = name
 
 console.log(price, age, temperature, weight, money);
 console.log(name);
+
+var special = "I am special";
+console.log(special);
