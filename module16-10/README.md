@@ -1,7 +1,7 @@
 # milestone4-module16-hello-javascript
 ### introduction to javascript
 
-### 16-9 Variable types, toFixed, parseFloat and remainder
+### 16-10 Module Summary and Practice Problem
 
-google search: javascript data types 
-dynamic typing
+
+4 practice problem solved
