@@ -14,7 +14,10 @@ console.log(name);
 var special = "I am special";
 console.log(special);
 
-var serious = true;
+
+// Boolean data type = true / false = 1 / 0 
+
+var serious = true; 
 var isFullMarks = true;
 var isPass = true;
 var isFail = false;
