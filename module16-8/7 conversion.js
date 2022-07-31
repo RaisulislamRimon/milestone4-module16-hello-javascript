@@ -3,4 +3,10 @@ var price2 = 10;
 
 var totalPrice = price1 + price2;
 
-console.log(totalPrice);
+// console.log(totalPrice);
+
+var firstName = "John";
+var lastName = "Wick";
+
+var fullName = firstName + " " + lastName;
+console.log(fullName);
